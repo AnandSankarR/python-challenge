@@ -1,0 +1,617 @@
+0,City,Country,Latitude,Temperature,Humidity,Cloud Cover,Wind Speed,Date
+<citipy.citipy.City object at 0x000002075FF7CBE0>,qaanaaq,gl,77.48,-20.62,58,48,5.95,1521786662
+<citipy.citipy.City object at 0x0000020760680400>,taoudenni,ml,22.68,45.99,30,0,8.41,1521786679
+<citipy.citipy.City object at 0x00000207615B3390>,richards bay,za,-28.77,65.61,100,92,5.17,1521786741
+<citipy.citipy.City object at 0x00000207615A0FD0>,bredasdorp,za,-34.53,63,98,0,13.22,1521786670
+<citipy.citipy.City object at 0x000002075FA45128>,liniere,ca,,,,,,
+<citipy.citipy.City object at 0x000002076156A7B8>,carmelo,uy,-34,68.95,59,0,3.36,1521784800
+<citipy.citipy.City object at 0x000002076101B588>,kutum,sd,14.2,67.32,41,0,2.71,1521786999
+<citipy.citipy.City object at 0x000002075F548828>,san julian,bo,13.7,76.14,60,0,9.17,1521784200
+<citipy.citipy.City object at 0x00000207611B1278>,barrow,us,-38.31,59.58,87,24,11.21,1521786663
+<citipy.citipy.City object at 0x000002075FD94DD8>,give,dk,55.85,34.23,96,88,5.82,1521785220
+<citipy.citipy.City object at 0x000002075FA39A90>,hay river,ca,60.82,-2.21,77,40,5.82,1521784800
+<citipy.citipy.City object at 0x000002076102F240>,georgetown,sh,6.8,73.4,94,0,6.93,1521784800
+<citipy.citipy.City object at 0x000002075F756860>,ushuaia,ar,-54.81,46.4,65,75,26.4,1521784800
+<citipy.citipy.City object at 0x00000207601A6E10>,amreli,in,21.6,93.15,24,0,9.42,1521787001
+<citipy.citipy.City object at 0x00000207607C2278>,gobabis,na,-22.45,64.4,88,88,1.12,1521784800
+<citipy.citipy.City object at 0x0000020760DE97B8>,cherskiy,ru,68.75,0.36,73,92,9.42,1521786713
+<citipy.citipy.City object at 0x000002075FB12048>,punta arenas,cl,-53.16,41,75,75,9.17,1521784800
+<citipy.citipy.City object at 0x000002076100A4A8>,zhigalovo,ru,54.81,48.6,55,36,4.16,1521787003
+<citipy.citipy.City object at 0x000002075FB70C88>,shuangcheng,cn,45.37,48.2,29,0,15.66,1521784800
+<citipy.citipy.City object at 0x000002075F776358>,albany,au,42.65,28.8,72,20,3.36,1521784440
+<citipy.citipy.City object at 0x000002075FDF5710>,tahta,eg,,,,,,
+<citipy.citipy.City object at 0x000002075FF7FA20>,kerewan,gm,13.49,71.6,53,0,6.93,1521784800
+<citipy.citipy.City object at 0x0000020761251470>,kapaa,us,22.08,69.62,94,90,7.63,1521784800
+<citipy.citipy.City object at 0x000002075F53AD68>,saint george,bm,39.45,50,93,40,2.71,1521784200
+<citipy.citipy.City object at 0x000002076083F7F0>,maloy,no,1,82.17,83,24,2.71,1521787005
+<citipy.citipy.City object at 0x00000207604AF630>,doha,kw,25.29,84.2,30,0,11.41,1521784800
+<citipy.citipy.City object at 0x0000020760DEB438>,chokurdakh,ru,70.62,-11.62,76,24,4.16,1521786652
+<citipy.citipy.City object at 0x000002075FF7C668>,illoqqortoormiut,gl,,,,,,
+<citipy.citipy.City object at 0x000002075F867550>,pontalina,br,-17.52,69.21,96,48,3.04,1521787006
+<citipy.citipy.City object at 0x00000207608C6D68>,rikitea,pf,-23.12,79.83,100,76,11.77,1521786655
+<citipy.citipy.City object at 0x00000207615A82E8>,hermanus,za,-34.42,52.2,86,0,2.48,1521786656
+<citipy.citipy.City object at 0x00000207600B6E10>,miragoane,ht,18.44,75.69,100,36,6.06,1521787006
+<citipy.citipy.City object at 0x000002076085EC50>,tikapur,np,28.53,83.07,34,0,2.71,1521787007
+<citipy.citipy.City object at 0x000002075FA7CD30>,yellowknife,ca,62.45,-2.21,77,40,5.82,1521784800
+<citipy.citipy.City object at 0x0000020760667F98>,taolanaro,mg,,,,,,
+<citipy.citipy.City object at 0x0000020760862358>,bluff,nz,-23.58,81.63,63,76,16.24,1521786691
+<citipy.citipy.City object at 0x00000207610C15F8>,vaini,to,15.34,90,30,0,3.83,1521786666
+<citipy.citipy.City object at 0x0000020761594A90>,vaitupu,wf,,,,,,
+<citipy.citipy.City object at 0x000002075F78D710>,new norfolk,au,-42.78,73.4,38,20,10.29,1521784800
+<citipy.citipy.City object at 0x0000020760F16DA0>,pevek,ru,69.7,9.27,90,92,6.29,1521786664
+<citipy.citipy.City object at 0x0000020760871630>,te anau,nz,-45.41,49.77,85,92,2.59,1521787009
+<citipy.citipy.City object at 0x000002075FB0B780>,castro,cl,-42.48,53.19,95,76,9.31,1521787009
+<citipy.citipy.City object at 0x000002075F776B70>,ballina,au,54.11,39.2,93,75,13.87,1521784800
+<citipy.citipy.City object at 0x0000020761251048>,hilo,us,19.71,73.4,69,75,5.82,1521784380
+<citipy.citipy.City object at 0x000002075F948CF8>,palapye,bw,-22.54,65.7,92,92,17.81,1521787010
+<citipy.citipy.City object at 0x0000020760262A90>,kavaratti,in,10.57,83.79,100,0,13.22,1521786696
+<citipy.citipy.City object at 0x000002076037F1D0>,arezzo,it,43.46,38.35,51,20,16.11,1521784800
+<citipy.citipy.City object at 0x00000207602735C0>,kollam,in,8.88,89.6,66,40,12.75,1521784800
+<citipy.citipy.City object at 0x000002075F560940>,arraial do cabo,br,-22.97,77.58,96,20,10.42,1521786659
+<citipy.citipy.City object at 0x0000020760DAF080>,aysha,ru,36.65,61.11,50,0,10.2,1521787012
+<citipy.citipy.City object at 0x0000020760ED89E8>,nizhneyansk,ru,,,,,,
+<citipy.citipy.City object at 0x0000020760BA44E0>,ribeira grande,pt,38.52,62.64,97,36,15.12,1521786663
+<citipy.citipy.City object at 0x0000020760DEEF60>,de-kastri,ru,51.48,25.83,99,8,10.65,1521786681
+<citipy.citipy.City object at 0x00000207615A45F8>,cape town,za,-33.93,57.2,87,0,1.12,1521784800
+<citipy.citipy.City object at 0x000002075FE64E48>,arcachon,fr,44.65,38.25,93,76,5.82,1521784800
+<citipy.citipy.City object at 0x00000207611B1908>,kodiak,us,39.95,46.4,70,1,8.05,1521784380
+<citipy.citipy.City object at 0x000002075FF7CFD0>,upernavik,gl,72.79,-13.51,100,12,10.2,1521786682
+<citipy.citipy.City object at 0x00000207606A55C0>,hithadhoo,mv,-0.6,83.88,100,88,12.66,1521786651
+<citipy.citipy.City object at 0x000002075FB07D30>,antofagasta,cl,-23.65,59,72,0,2.24,1521784800
+<citipy.citipy.City object at 0x00000207604AD278>,butaritari,ki,3.07,83.61,96,68,19.6,1521786658
+<citipy.citipy.City object at 0x0000020760F94CC0>,talnakh,ru,69.49,-15.22,44,12,3.04,1521786725
+<citipy.citipy.City object at 0x000002075F781C88>,hobart,au,-42.88,73.4,38,20,10.29,1521784800
+<citipy.citipy.City object at 0x000002076060C710>,semey,kz,50.41,40.41,100,88,11.88,1521787015
+<citipy.citipy.City object at 0x000002075F961358>,capreol,ca,46.71,19.4,62,40,11.41,1521784800
+<citipy.citipy.City object at 0x000002076129C5F8>,morgan city,us,29.7,53.62,93,1,7.18,1521784560
+<citipy.citipy.City object at 0x00000207615B0CF8>,port elizabeth,za,39.31,37.4,64,1,6.93,1521784560
+<citipy.citipy.City object at 0x000002075FDCFCC0>,puerto ayora,ec,-0.74,80.1,100,8,5.5,1521786684
+<citipy.citipy.City object at 0x0000020760748EF0>,praxedis guerrero,mx,31.37,68,22,40,3.36,1521784260
+<citipy.citipy.City object at 0x0000020760BD1080>,saint-philippe,re,45.36,26.96,92,1,6.29,1521785700
+<citipy.citipy.City object at 0x000002075F8FE748>,santa ines,br,-0.82,51.8,93,40,4.7,1521784800
+<citipy.citipy.City object at 0x00000207606692B0>,tsihombe,mg,,,,,,
+<citipy.citipy.City object at 0x0000020760865940>,kaitangata,nz,-46.28,54.18,96,92,5.06,1521786714
+<citipy.citipy.City object at 0x00000207608710B8>,southbridge,nz,42.08,34.61,50,1,12.75,1521784560
+<citipy.citipy.City object at 0x0000020760F31400>,provideniya,ru,64.42,30.06,88,36,30.56,1521787018
+<citipy.citipy.City object at 0x000002075F7459E8>,malanje,ao,-9.54,63.72,94,88,2.48,1521787019
+<citipy.citipy.City object at 0x000002075F78B9E8>,moranbah,au,-22,80.1,62,92,16.69,1521787019
+<citipy.citipy.City object at 0x000002075F78BE48>,mount gambier,au,-37.83,79.47,49,88,7.96,1521786750
+<citipy.citipy.City object at 0x00000207607AD7B8>,gua musang,my,4.88,84.51,67,48,2.04,1521787020
+<citipy.citipy.City object at 0x00000207610EAE10>,asau,tv,,,,,,
+<citipy.citipy.City object at 0x000002075F77A8D0>,busselton,au,-33.64,74.79,84,0,14,1521786680
+<citipy.citipy.City object at 0x00000207611ED7B8>,rancho palos verdes,us,33.75,56.21,93,90,3.36,1521785160
+<citipy.citipy.City object at 0x000002076018B860>,westport,ie,53.8,39.2,93,75,13.87,1521784800
+<citipy.citipy.City object at 0x0000020760ED82B0>,nikolskoye,ru,59.7,24.8,92,90,22.37,1521784800
+<citipy.citipy.City object at 0x000002075FF7C898>,maniitsoq,gl,65.42,3.78,90,36,6.06,1521787021
+<citipy.citipy.City object at 0x000002076017ADD8>,dingle,ie,11,83.79,63,48,13.22,1521786747
+<citipy.citipy.City object at 0x0000020760F50C88>,sentyabrskiy,ru,,,,,,
+<citipy.citipy.City object at 0x000002076103D9B0>,longyearbyen,sj,78.22,10.4,72,40,2.24,1521784200
+<citipy.citipy.City object at 0x000002076102F2E8>,jamestown,sh,-33.21,77.94,71,8,4.38,1521786685
+<citipy.citipy.City object at 0x00000207615A5208>,east london,za,-33.02,69.39,100,80,19.48,1521786718
+<citipy.citipy.City object at 0x0000020761017668>,victoria,sc,5.28,86.92,74,75,9.17,1521783000
+<citipy.citipy.City object at 0x000002075FF7CF60>,tasiilaq,gl,65.61,28.4,86,88,4.7,1521784200
+<citipy.citipy.City object at 0x000002075FA74710>,torbay,ca,47.66,30.2,100,90,4.7,1521784800
+<citipy.citipy.City object at 0x000002076107E128>,adre,td,13.47,71.28,75,0,9.64,1521787023
+<citipy.citipy.City object at 0x0000020760F23C88>,poputnaya,ru,44.51,30.87,97,92,6.29,1521787024
+<citipy.citipy.City object at 0x000002075F6FF828>,bathsheba,bb,13.22,77,78,40,18.34,1521784800
+<citipy.citipy.City object at 0x000002075FA30198>,flin flon,ca,54.77,17.73,72,8,9.42,1521787025
+<citipy.citipy.City object at 0x0000020761062B38>,bandarbeyla,so,9.49,77.76,100,48,2.82,1521787025
+<citipy.citipy.City object at 0x00000207608CB208>,kavieng,pg,-2.57,86.31,94,64,12.55,1521786762
+<citipy.citipy.City object at 0x000002075FEE6160>,omboue,ga,-1.57,76.95,100,88,5.28,1521787026
+<citipy.citipy.City object at 0x0000020760437470>,hasaki,jp,35.73,53.51,54,75,8.05,1521784800
+<citipy.citipy.City object at 0x00000207615AC0B8>,kruisfontein,za,-34,63.36,90,0,11.32,1521786719
+<citipy.citipy.City object at 0x00000207604BA048>,nantucket,us,41.28,34.86,100,1,9.17,1521784560
+<citipy.citipy.City object at 0x0000020760E08B38>,galich,ru,58.38,21.24,93,92,13.22,1521787027
+<citipy.citipy.City object at 0x000002075FB07A58>,avarua,ck,-21.21,80.6,88,75,4.7,1521784800
+<citipy.citipy.City object at 0x0000020760DF0A90>,dikson,ru,73.51,-12.34,98,64,26.42,1521786716
+<citipy.citipy.City object at 0x0000020760801EB8>,harlingen,nl,26.19,70.14,82,0,10.29,1521785700
+<citipy.citipy.City object at 0x00000207605A2B70>,brookings,us,44.31,34.27,80,90,11.41,1521785700
+<citipy.citipy.City object at 0x00000207607C2E48>,opuwo,na,-18.06,58.59,80,24,2.82,1521786694
+<citipy.citipy.City object at 0x0000020760F65AC8>,shumskiy,ru,54.83,54.9,45,48,5.84,1521787028
+<citipy.citipy.City object at 0x000002075F964BA8>,clyde river,ca,70.47,-29.21,66,20,5.82,1521784800
+<citipy.citipy.City object at 0x000002075F74C668>,mar del plata,ar,-46.43,57.42,71,12,19.93,1521786714
+<citipy.citipy.City object at 0x00000207607CCCF8>,goure,ne,13.98,76.5,30,8,9.98,1521787029
+<citipy.citipy.City object at 0x000002075F796278>,ulladulla,au,-35.36,69.8,64,90,6.93,1521784800
+<citipy.citipy.City object at 0x000002076101B8D0>,marawi,sd,8,72.36,100,88,3.04,1521786787
+<citipy.citipy.City object at 0x000002075FB17390>,vallenar,cl,-28.58,52.83,77,0,2.26,1521786760
+<citipy.citipy.City object at 0x000002075F77A438>,broome,au,52.47,43.86,75,64,16.11,1521784920
+<citipy.citipy.City object at 0x0000020761081400>,mao,td,19.55,73.4,94,75,3.04,1521784800
+<citipy.citipy.City object at 0x0000020760211128>,dwarka,in,28.58,78.8,39,0,9.17,1521784800
+<citipy.citipy.City object at 0x0000020760721080>,lazaro cardenas,mx,28.39,68.49,31,20,7.18,1521787032
+<citipy.citipy.City object at 0x00000207611D47B8>,fortuna,us,38.18,50.09,49,0,6.93,1521784800
+<citipy.citipy.City object at 0x00000207615B0C50>,port alfred,za,-33.59,67.14,90,8,16.02,1521786698
+<citipy.citipy.City object at 0x0000020761248470>,griffin,us,33.25,42.46,42,1,3.36,1521784500
+<citipy.citipy.City object at 0x0000020760FC2710>,ust-nera,ru,64.57,4.05,71,12,2.59,1521787033
+<citipy.citipy.City object at 0x00000207608C38D0>,atuona,pf,-9.8,79.83,100,92,12.55,1521786677
+<citipy.citipy.City object at 0x0000020760377550>,vestmannaeyjar,is,63.44,38.88,97,92,7.63,1521786730
+<citipy.citipy.City object at 0x00000207608C6E80>,tautira,pf,-17.73,82.4,69,20,4.7,1521784800
+<citipy.citipy.City object at 0x0000020760373B70>,grindavik,is,63.84,34.65,100,40,8.05,1521784800
+<citipy.citipy.City object at 0x000002076013D128>,bengkulu,id,,,,,,
+<citipy.citipy.City object at 0x00000207608C6438>,mataura,pf,-46.19,54.81,90,80,7.4,1521786670
+<citipy.citipy.City object at 0x00000207611EB048>,pacific grove,us,36.62,46.8,57,90,8.05,1521784500
+<citipy.citipy.City object at 0x0000020760FACE80>,tura,ru,25.52,78.57,74,0,2.93,1521787035
+<citipy.citipy.City object at 0x000002076069BE80>,grand river south east,mu,,,,,,
+<citipy.citipy.City object at 0x000002075FB34C50>,dongli,cn,24.18,73.4,38,0,8.95,1521784800
+<citipy.citipy.City object at 0x0000020760F580B8>,severnyy,ru,,,,,,
+<citipy.citipy.City object at 0x0000020760BB5B00>,meyungs,pw,,,,,,
+<citipy.citipy.City object at 0x0000020760365E10>,khorramshahr,ir,30.43,75.2,27,0,16.11,1521784800
+<citipy.citipy.City object at 0x000002076107ED68>,faya,td,18.39,71.6,18,0,4.7,1521784800
+<citipy.citipy.City object at 0x000002075F77ACF8>,carnarvon,au,-30.97,55.17,84,0,9.19,1521786689
+<citipy.citipy.City object at 0x00000207608789E8>,salalah,om,17.01,80.6,61,40,2.24,1521784200
+<citipy.citipy.City object at 0x0000020761123A20>,bekhtery,ua,46.25,30.15,100,92,16.35,1521787038
+<citipy.citipy.City object at 0x000002076047BA90>,shingu,jp,33.72,55.4,50,40,18.34,1521784800
+<citipy.citipy.City object at 0x000002075FC4C588>,sao filipe,cv,14.9,70.11,95,0,18.48,1521786698
+<citipy.citipy.City object at 0x0000020760878668>,muscat,om,23.6,86,45,0,8.05,1521784200
+<citipy.citipy.City object at 0x0000020760826400>,berlevag,no,70.86,24.8,73,75,33.33,1521784200
+<citipy.citipy.City object at 0x00000207611E1240>,lompoc,us,34.64,50.7,81,90,5.82,1521784680
+<citipy.citipy.City object at 0x00000207615980F0>,samusu,ws,,,,,,
+<citipy.citipy.City object at 0x00000207606A5390>,eydhafushi,mv,5.1,83.25,100,56,9.75,1521787039
+<citipy.citipy.City object at 0x0000020760F01D68>,ostrovnoy,ru,68.05,9.9,79,0,11.77,1521787040
+<citipy.citipy.City object at 0x00000207607D56A0>,duku,ng,11.24,72.09,95,88,5.06,1521787040
+<citipy.citipy.City object at 0x000002076035B198>,ardistan,ir,,,,,,
+<citipy.citipy.City object at 0x000002075FB6B828>,shache,cn,38.42,65.97,36,0,4.61,1521787041
+<citipy.citipy.City object at 0x00000207611B1438>,college,us,64.86,13.23,41,1,5.82,1521784680
+<citipy.citipy.City object at 0x00000207601F4860>,chipurupalle,in,18.32,97.65,35,0,2.37,1521787041
+<citipy.citipy.City object at 0x0000020760EBB9E8>,milkovo,ru,41.53,37.69,100,92,8.05,1521784800
+<citipy.citipy.City object at 0x000002075FA6FFD0>,thompson,ca,55.74,-0.41,54,5,4.7,1521784800
+<citipy.citipy.City object at 0x000002075FC42FD0>,moron,cu,10.49,70.47,92,92,3.04,1521787042
+<citipy.citipy.City object at 0x000002075FB55518>,lasa,cn,34.92,73.72,47,0,13.87,1521784800
+<citipy.citipy.City object at 0x000002075F781860>,griffith,au,-34.29,80.73,46,24,8.63,1521787043
+<citipy.citipy.City object at 0x0000020760296B00>,manavalakurichi,in,8.13,89.6,66,40,12.75,1521784800
+<citipy.citipy.City object at 0x000002076103D908>,barentsburg,sj,,,,,,
+<citipy.citipy.City object at 0x000002075FBE49E8>,mutis,co,6.23,75.06,100,92,1.59,1521787044
+<citipy.citipy.City object at 0x00000207603B9A58>,gualdo tadino,it,43.23,40.51,51,20,16.11,1521784800
+<citipy.citipy.City object at 0x000002076107DDD8>,cockburn harbour,tc,,,,,,
+<citipy.citipy.City object at 0x00000207606E54A8>,constitucion,mx,23.99,63.09,36,56,5.84,1521787045
+<citipy.citipy.City object at 0x0000020760158630>,meulaboh,id,4.14,85.32,100,32,5.17,1521786684
+<citipy.citipy.City object at 0x000002075FB07B38>,ancud,cl,-41.87,54.54,94,64,9.19,1521786679
+<citipy.citipy.City object at 0x000002076013D2B0>,biak,id,-0.91,83.79,87,20,2.93,1521787046
+<citipy.citipy.City object at 0x000002075FB88EB8>,yinchuan,cn,38.48,63,33,80,8.75,1521787046
+<citipy.citipy.City object at 0x000002075FF7C748>,ilulissat,gl,69.22,1.4,84,48,21.92,1521784200
+<citipy.citipy.City object at 0x00000207607C6CF8>,fayaoue,nc,-20.65,79.56,100,88,17.25,1521787047
+<citipy.citipy.City object at 0x0000020760E48C50>,khatanga,ru,71.98,-14.5,88,0,3.71,1521786737
+<citipy.citipy.City object at 0x000002075F961F98>,chapais,ca,49.78,17.6,67,1,5.82,1521784800
+<citipy.citipy.City object at 0x00000207615C9A58>,mutoko,zw,-17.4,70.38,77,0,3.83,1521787047
+<citipy.citipy.City object at 0x000002075FBF0DD8>,pizarro,co,4.95,77.04,97,92,3.38,1521787048
+<citipy.citipy.City object at 0x000002076015BA20>,palabuhanratu,id,,,,,,
+<citipy.citipy.City object at 0x000002075FB76F28>,tieli,cn,46.98,37.08,96,64,7.63,1521787048
+<citipy.citipy.City object at 0x00000207606081D0>,kazalinsk,kz,,,,,,
+<citipy.citipy.City object at 0x0000020760871DD8>,tuatapere,nz,-46.13,54,100,80,9.19,1521786691
+<citipy.citipy.City object at 0x0000020760FBBA90>,urusha,ru,54.05,37.89,46,24,7.4,1521787049
+<citipy.citipy.City object at 0x000002075FB789E8>,wanning,cn,48.64,33.8,86,75,10.29,1521784200
+<citipy.citipy.City object at 0x000002075F754358>,rawson,ar,-43.3,64.98,36,36,17.02,1521787050
+<citipy.citipy.City object at 0x0000020760EF9198>,okhotsk,ru,59.36,24.75,79,0,4.83,1521787050
+<citipy.citipy.City object at 0x000002075F544CC0>,puerto quijarro,bo,-19,75.51,92,0,2.37,1521787051
+<citipy.citipy.City object at 0x00000207608A76A0>,huarmey,pe,-10.07,65.16,89,92,1.7,1521787051
+<citipy.citipy.City object at 0x0000020760E489E8>,kharp,ru,66.82,-14.41,86,56,3.94,1521787051
+<citipy.citipy.City object at 0x00000207615C5400>,senanga,zm,-16.1,68.4,93,24,4.38,1521787052
+<citipy.citipy.City object at 0x0000020760F4D160>,saskylakh,ru,71.97,-7.3,76,64,8.97,1521786728
+<citipy.citipy.City object at 0x0000020760655B00>,marzuq,ly,14.4,76.23,15,0,3.6,1521787053
+<citipy.citipy.City object at 0x000002075FE48278>,ginir,et,7.14,73.35,55,0,3.83,1521787053
+<citipy.citipy.City object at 0x000002075F841518>,mozarlandia,br,-14.74,71.01,92,20,2.71,1521787053
+<citipy.citipy.City object at 0x000002075FA305C0>,fort nelson,ca,58.81,12.2,78,90,5.82,1521784800
+<citipy.citipy.City object at 0x0000020760878908>,ruwi,om,23.6,86,45,0,8.05,1521784200
+<citipy.citipy.City object at 0x0000020761007C88>,zheleznodorozhnyy,ru,55.75,28.85,86,90,13.42,1521784800
+<citipy.citipy.City object at 0x000002076069E438>,mahebourg,mu,-20.41,84.2,70,40,11.41,1521784800
+<citipy.citipy.City object at 0x0000020760F582B0>,severo-kurilsk,ru,50.68,25.65,100,44,5.06,1521787055
+<citipy.citipy.City object at 0x000002076015B898>,padang,id,-0.92,82.35,100,24,2.37,1521787055
+<citipy.citipy.City object at 0x000002076155A160>,moundsville,us,39.92,25.61,50,1,3.36,1521784560
+<citipy.citipy.City object at 0x0000020760B82B38>,camacha,pt,33.08,58.23,82,40,8.05,1521784800
+<citipy.citipy.City object at 0x000002076044E128>,katsuura,jp,33.93,53.6,37,20,6.93,1521784800
+<citipy.citipy.City object at 0x00000207605A2EB8>,pierre,us,44.37,39.2,93,90,16.11,1521784380
+<citipy.citipy.City object at 0x000002075FF7C908>,nanortalik,gl,60.14,23.31,100,0,35.14,1521787057
+<citipy.citipy.City object at 0x0000020760688F28>,hovd,mn,63.83,36.54,74,75,8.05,1521784200
+<citipy.citipy.City object at 0x000002075F8CED68>,the valley,ai,18.22,78.8,78,40,12.75,1521784800
+<citipy.citipy.City object at 0x000002075F7961D0>,tumut,au,-35.3,67.68,68,24,5.17,1521787058
+<citipy.citipy.City object at 0x00000207611B1AC8>,palmer,us,61.6,26.89,42,1,2.71,1521784560
+<citipy.citipy.City object at 0x0000020760655D30>,mizdah,ly,31.45,44.1,63,0,15.46,1521787059
+<citipy.citipy.City object at 0x000002075FA74C50>,tuktoyaktuk,ca,69.44,-11.19,83,75,5.82,1521781200
+<citipy.citipy.City object at 0x000002075FDC6278>,tuggurt,dz,,,,,,
+<citipy.citipy.City object at 0x000002076068F048>,atar,mr,20.52,58.95,17,0,10.54,1521786703
+<citipy.citipy.City object at 0x000002075F942C50>,gweta,bw,-20.21,67.05,100,92,4.94,1521787060
+<citipy.citipy.City object at 0x000002075F78B128>,mackay,au,53.65,28.4,100,90,9.17,1521784980
+<citipy.citipy.City object at 0x0000020760F88F28>,sug-aksy,ru,,,,,,
+<citipy.citipy.City object at 0x000002075FBE4518>,mosquera,co,4.71,51.8,87,75,4.7,1521784800
+<citipy.citipy.City object at 0x0000020760FB92E8>,ulyanovo,ru,,,,,,
+<citipy.citipy.City object at 0x000002076084AE10>,sistranda,no,63.73,37.4,69,75,13.87,1521784200
+<citipy.citipy.City object at 0x00000207611B7080>,kingman,us,35.19,64.8,82,90,12.75,1521784560
+<citipy.citipy.City object at 0x000002075FB23E48>,altay,cn,47.83,46.08,73,0,2.93,1521787063
+<citipy.citipy.City object at 0x000002076085EE80>,alofi,nu,-19.06,82.4,74,48,3.36,1521781200
+<citipy.citipy.City object at 0x00000207611B1358>,bethel,us,60.79,30.2,92,90,16.11,1521784380
+<citipy.citipy.City object at 0x000002075F95BB70>,bonavista,ca,48.65,31.68,92,92,25.75,1521787064
+<citipy.citipy.City object at 0x000002075F531400>,svoge,bg,42.96,24.8,92,75,6.93,1521784800
+<citipy.citipy.City object at 0x000002075FC39CC0>,baracoa,cu,20.35,72,100,100,8.19,1521787064
+<citipy.citipy.City object at 0x000002075F77EF28>,esperance,au,10.24,75.2,88,20,6.62,1521781200
+<citipy.citipy.City object at 0x00000207608754E0>,waipawa,nz,-39.94,60.48,82,76,10.65,1521787065
+<citipy.citipy.City object at 0x0000020760685C88>,pyu,mm,18.48,91.17,36,0,3.6,1521787065
+<citipy.citipy.City object at 0x0000020760D9F6A0>,amderma,ru,,,,,,
+<citipy.citipy.City object at 0x000002075FB4EC88>,juegang,cn,32.31,59.67,78,56,3.27,1521787066
+<citipy.citipy.City object at 0x0000020760DDE5F8>,chagda,ru,,,,,,
+<citipy.citipy.City object at 0x0000020760FA8CC0>,tsilna,ru,54.59,24.8,45,44,8.95,1521784800
+<citipy.citipy.City object at 0x000002075FA45828>,louisbourg,ca,,,,,,
+<citipy.citipy.City object at 0x0000020760BB58D0>,airai,pw,-8.93,81.27,67,24,2.48,1521786697
+<citipy.citipy.City object at 0x00000207606A2D30>,souillac,mu,45.6,37.2,80,90,1.12,1521784800
+<citipy.citipy.City object at 0x0000020760151710>,labuhan,id,-2.54,86.67,70,44,2.82,1521787067
+<citipy.citipy.City object at 0x000002075F8CA390>,ciras,af,,,,,,
+<citipy.citipy.City object at 0x000002075F540780>,entre rios,bo,-11.94,76.86,98,76,7.74,1521787068
+<citipy.citipy.City object at 0x00000207615C57F0>,sinazongwe,zm,-17.26,75.6,87,0,6.4,1521787068
+<citipy.citipy.City object at 0x00000207604724E0>,otofuke,jp,43.02,33.8,59,75,3.36,1521784800
+<citipy.citipy.City object at 0x0000020760BD10F0>,saint-pierre,re,48.95,39.2,86,90,5.82,1521784800
+<citipy.citipy.City object at 0x0000020760445F28>,kamaishi,jp,39.28,46.4,75,75,8.05,1521784800
+<citipy.citipy.City object at 0x0000020760139860>,banjarmasin,id,-3.32,86.67,78,20,7.74,1521787070
+<citipy.citipy.City object at 0x000002076015DA58>,payakumbuh,id,-0.23,78.66,87,56,3.27,1521787070
+<citipy.citipy.City object at 0x0000020761594240>,isangel,vu,-19.55,78.12,100,56,10.31,1521787071
+<citipy.citipy.City object at 0x000002076061E240>,point pedro,lk,9.82,86.85,84,0,2.26,1521787071
+<citipy.citipy.City object at 0x000002076069BDD8>,grand gaube,mu,-20.01,84.2,70,40,11.41,1521784800
+<citipy.citipy.City object at 0x000002075FF71588>,cayenne,gf,4.94,75.2,88,90,8.97,1521786600
+<citipy.citipy.City object at 0x000002076086DC18>,ruatoria,nz,,,,,,
+<citipy.citipy.City object at 0x0000020760682668>,labutta,mm,,,,,,
+<citipy.citipy.City object at 0x000002075FB1D780>,kousseri,cm,,,,,,
+<citipy.citipy.City object at 0x000002075F548B00>,san pedro,bo,-33.68,60.03,86,0,4.38,1521787074
+<citipy.citipy.City object at 0x000002075F79C898>,kijaba,az,,,,,,
+<citipy.citipy.City object at 0x00000207602AB470>,mul,in,20.07,93.51,33,0,4.61,1521787075
+<citipy.citipy.City object at 0x000002075FB042E8>,hire,ci,,,,,,
+<citipy.citipy.City object at 0x0000020760059E80>,tucuru,gt,15.3,65.07,98,76,1.92,1521787076
+<citipy.citipy.City object at 0x00000207606CB668>,cabo san lucas,mx,22.89,68,28,20,10.2,1521783840
+<citipy.citipy.City object at 0x0000020760823240>,ardalstangen,no,61.24,30.2,86,75,6.93,1521784200
+<citipy.citipy.City object at 0x0000020761594550>,sola,vu,62.78,12.2,85,0,9.17,1521784200
+<citipy.citipy.City object at 0x0000020760199940>,afzalgarh,in,29.49,76.77,77,0,3.6,1521787077
+<citipy.citipy.City object at 0x0000020760EA06A0>,lovozero,ru,68.01,10.35,77,0,4.94,1521787078
+<citipy.citipy.City object at 0x00000207611B15C0>,homer,us,59.64,30.29,42,1,3.36,1521784380
+<citipy.citipy.City object at 0x00000207612511D0>,kahului,us,20.89,69.42,73,40,10.29,1521784560
+<citipy.citipy.City object at 0x000002075FB0BF28>,coquimbo,cl,-29.95,53.6,93,0,4.7,1521784800
+<citipy.citipy.City object at 0x000002075FA58E10>,powell river,ca,49.84,41,75,90,9.17,1521784800
+<citipy.citipy.City object at 0x0000020760FCF320>,verkhnevilyuysk,ru,63.45,24.12,62,68,3.71,1521787080
+<citipy.citipy.City object at 0x0000020760FA05C0>,tiksi,ru,71.64,8.1,81,68,4.61,1521787080
+<citipy.citipy.City object at 0x000002075F90E518>,sao joao da barra,br,-21.64,81,94,0,14.67,1521787081
+<citipy.citipy.City object at 0x0000020760298C88>,mangan,in,27.5,34.83,80,76,1.36,1521787081
+<citipy.citipy.City object at 0x0000020760373D68>,hofn,is,64.25,36.18,100,32,7.96,1521786700
+<citipy.citipy.City object at 0x000002075F746668>,comodoro rivadavia,ar,-45.87,60.8,51,0,12.75,1521784800
+<citipy.citipy.City object at 0x0000020760655EF0>,sabha,ly,27.03,47.7,37,0,11.65,1521787082
+<citipy.citipy.City object at 0x0000020760158518>,metro,id,-5.11,86.13,84,20,5.84,1521787082
+<citipy.citipy.City object at 0x00000207615C2668>,mpika,zm,-11.84,69.39,88,8,4.72,1521787083
+<citipy.citipy.City object at 0x0000020760355CF8>,hit,iq,33.64,72.9,26,0,4.38,1521787083
+<citipy.citipy.City object at 0x0000020760FFA780>,yuryevets,ru,57.32,20.07,90,88,13.67,1521787083
+<citipy.citipy.City object at 0x000002075FA3A940>,iqaluit,ca,63.75,-22.01,67,5,11.41,1521784800
+<citipy.citipy.City object at 0x000002075F7EDDA0>,formoso do araguaia,br,,,,,,
+<citipy.citipy.City object at 0x000002076124FDA0>,ahuimanu,us,21.44,69.35,88,90,11.65,1521784620
+<citipy.citipy.City object at 0x00000207607B3F98>,miri,my,10.31,72.81,80,0,11.99,1521787085
+<citipy.citipy.City object at 0x0000020760B43240>,hajnowka,pl,52.74,23.13,79,44,3.15,1521787085
+<citipy.citipy.City object at 0x0000020760F89EF0>,surgut,ru,61.25,6.8,65,76,6.71,1521784800
+<citipy.citipy.City object at 0x000002075FA5EDA0>,saint-augustin,ca,44.83,38.41,86,75,8.05,1521784800
+<citipy.citipy.City object at 0x000002075FB513C8>,karamay,cn,,,,,,
+<citipy.citipy.City object at 0x00000207608C8C18>,daru,pg,7.99,73.62,91,88,3.6,1521787086
+<citipy.citipy.City object at 0x000002075F80C550>,itambacuri,br,-18.04,69.66,98,64,4.72,1521787087
+<citipy.citipy.City object at 0x000002076156D0F0>,maldonado,uy,-34.91,62.6,72,0,6.93,1521784800
+<citipy.citipy.City object at 0x00000207606805F8>,tombouctou,ml,16.77,58.23,21,0,16.46,1521787087
+<citipy.citipy.City object at 0x000002075F7E4780>,diamantino,br,-14.4,73.8,89,12,2.59,1521787088
+<citipy.citipy.City object at 0x000002075F9036D8>,santarem,br,,,,,,
+<citipy.citipy.City object at 0x000002075FCD2470>,castrop-rauxel,de,51.56,40.35,93,75,8.05,1521784200
+<citipy.citipy.City object at 0x00000207607C8E10>,vao,nc,59.1,28.44,82,76,10.2,1521786692
+<citipy.citipy.City object at 0x00000207608C80F0>,tevaitoa,pf,-16.78,82.26,100,64,10.76,1521787089
+<citipy.citipy.City object at 0x0000020760BA1908>,praia da vitoria,pt,38.73,61.92,100,56,20.04,1521787090
+<citipy.citipy.City object at 0x000002075FEFCC18>,carmarthen,gb,51.86,46.4,81,92,28.86,1521784200
+<citipy.citipy.City object at 0x0000020760EC2128>,mokrous,ru,51.24,25.02,92,56,14.45,1521787091
+<citipy.citipy.City object at 0x000002075FA3A828>,inverness,ca,57.48,41.63,100,75,1.12,1521784200
+<citipy.citipy.City object at 0x000002076015BAC8>,palembang,id,-2.99,86.22,86,12,4.27,1521787091
+<citipy.citipy.City object at 0x00000207608757B8>,waitati,nz,-45.75,52.92,92,80,2.93,1521787092
+<citipy.citipy.City object at 0x000002076086C278>,ngunguru,nz,-35.62,67.77,100,92,13.56,1521787092
+<citipy.citipy.City object at 0x0000020760F76E80>,sotnikovo,ru,51.88,46.4,45,0,6.71,1521784800
+<citipy.citipy.City object at 0x000002075F754470>,reconquista,ar,-29.14,67.14,79,0,4.94,1521787093
+<citipy.citipy.City object at 0x0000020760E98518>,leshukonskoye,ru,64.9,9,77,36,3.6,1521787094
+<citipy.citipy.City object at 0x0000020760862AC8>,dunedin,nz,-45.87,52.92,92,80,2.93,1521786963
+<citipy.citipy.City object at 0x0000020760DBC358>,belaya gora,ru,68.54,-11.17,74,0,3.71,1521787094
+<citipy.citipy.City object at 0x000002075F950EF0>,aklavik,ca,68.22,-9.41,76,20,6.93,1521784800
+<citipy.citipy.City object at 0x00000207611B1BA8>,sitka,us,37.17,49.41,76,8,4.5,1521786716
+<citipy.citipy.City object at 0x000002075F942668>,bokspits,bw,,,,,,
+<citipy.citipy.City object at 0x00000207606AE198>,acapulco,mx,16.86,72.9,85,0,3.94,1521787095
+<citipy.citipy.City object at 0x0000020760655E10>,nalut,ly,31.86,42.48,64,0,10.65,1521787096
+<citipy.citipy.City object at 0x0000020760E30518>,kalininsk,ru,51.5,23.67,96,56,9.98,1521787096
+<citipy.citipy.City object at 0x00000207608CF128>,port moresby,pg,-9.47,89.6,66,40,11.41,1521781200
+<citipy.citipy.City object at 0x000002075F796E48>,yulara,au,-25.24,95,14,0,8.05,1521784800
+<citipy.citipy.City object at 0x000002075F540EF0>,la paz,bo,24.15,68,37,75,5.82,1521783600
+<citipy.citipy.City object at 0x00000207615947F0>,halalo,wf,,,,,,
+<citipy.citipy.City object at 0x000002076046A358>,nishihara,jp,35.74,59.34,26,75,8.05,1521785640
+<citipy.citipy.City object at 0x0000020760651BA8>,vangazi,lv,40.03,59,48,0,11.41,1521784800
+<citipy.citipy.City object at 0x00000207607C2EF0>,oranjemund,na,-28.55,61.02,94,0,3.38,1521787098
+<citipy.citipy.City object at 0x0000020760AC9A20>,tabuan,ph,,,,,,
+<citipy.citipy.City object at 0x000002075F7875F8>,kiama,au,-34.67,69.8,64,90,6.93,1521784800
+<citipy.citipy.City object at 0x00000207604AD518>,rungata,ki,,,,,,
+<citipy.citipy.City object at 0x000002075F7564A8>,tartagal,ar,-22.52,62.91,91,24,3.38,1521787099
+<citipy.citipy.City object at 0x0000020760878A90>,sur,om,22.57,78.21,84,0,2.37,1521787100
+<citipy.citipy.City object at 0x000002075FEE62B0>,port-gentil,ga,-0.72,77,94,20,4.7,1521784800
+<citipy.citipy.City object at 0x000002075F7872E8>,karratha,au,-20.74,103.68,22,36,7.63,1521786760
+<citipy.citipy.City object at 0x0000020760F01A20>,ossora,ru,59.24,14.58,87,8,13.89,1521787101
+<citipy.citipy.City object at 0x00000207608AD978>,marcona,pe,,,,,,
+<citipy.citipy.City object at 0x0000020760FC2518>,ust-kuyga,ru,70,4.5,77,24,4.16,1521787101
+<citipy.citipy.City object at 0x000002075FB9CC50>,bajo baudo,co,,,,,,
+<citipy.citipy.City object at 0x0000020760BA1518>,porto santo,pt,,,,,,
+<citipy.citipy.City object at 0x000002075FA52780>,one hundred mile house,ca,,,,,,
+<citipy.citipy.City object at 0x00000207607C06A0>,maxixe,mz,-23.86,75.96,100,100,5.95,1521787102
+<citipy.citipy.City object at 0x000002076061BBA8>,matara,lk,-13.74,45.9,99,92,1.7,1521786740
+<citipy.citipy.City object at 0x0000020760DA2F60>,arbazh,ru,57.68,10.98,77,12,4.72,1521787103
+<citipy.citipy.City object at 0x0000020760E84E48>,kulunda,ru,52.57,37.08,98,80,17.47,1521787103
+<citipy.citipy.City object at 0x0000020761026C50>,nassjo,se,57.65,24.8,100,90,4.7,1521784200
+<citipy.citipy.City object at 0x000002075FB518D0>,kuche,cn,,,,,,
+<citipy.citipy.City object at 0x00000207610BF0B8>,rafraf,tn,37.19,50.9,62,75,21.92,1521784800
+<citipy.citipy.City object at 0x000002076129A6D8>,estelle,us,32.87,65.12,55,1,17.22,1521785700
+<citipy.citipy.City object at 0x0000020761205E80>,fort morgan,us,40.25,57.7,25,75,5.82,1521784500
+<citipy.citipy.City object at 0x000002075FB0FC18>,lebu,cl,8.96,66.33,31,24,3.6,1521786700
+<citipy.citipy.City object at 0x0000020760ECC0B8>,mys shmidta,ru,,,,,,
+<citipy.citipy.City object at 0x000002075F745A90>,menongue,ao,-14.66,63.36,99,92,2.37,1521787106
+<citipy.citipy.City object at 0x000002075FA698D0>,shelburne,ca,44.08,22.57,85,20,10.65,1521784800
+<citipy.citipy.City object at 0x0000020760FE3208>,vostok,ru,46.45,42.12,59,0,3.38,1521786705
+<citipy.citipy.City object at 0x000002075F5518D0>,alem paraiba,br,-21.89,70.47,97,92,3.04,1521787107
+<citipy.citipy.City object at 0x000002075F756B70>,villa carlos paz,ar,-31.42,59,93,0,4.7,1521784800
+<citipy.citipy.City object at 0x00000207608A1B38>,chilca,pe,-13.22,50,76,75,3.36,1521784800
+<citipy.citipy.City object at 0x0000020760EC63C8>,muravlenko,ru,63.79,-12.88,79,8,10.65,1521787108
+<citipy.citipy.City object at 0x0000020760878588>,ibra,om,22.69,80.73,36,0,2.93,1521787109
+<citipy.citipy.City object at 0x0000020760669160>,toliary,mg,,,,,,
+<citipy.citipy.City object at 0x000002075FA9DDD8>,fribourg,ch,46.8,33.22,98,90,3.15,1521784200
+<citipy.citipy.City object at 0x00000207608C39E8>,avera,pf,33.19,39.6,80,1,7.4,1521784500
+<citipy.citipy.City object at 0x000002075FA52048>,norman wells,ca,65.28,-0.41,70,75,3.36,1521784800
+<citipy.citipy.City object at 0x000002075F7D7400>,cidreira,br,-30.17,66.06,90,44,8.41,1521786772
+<citipy.citipy.City object at 0x00000207615B5C88>,umzimvubu,za,,,,,,
+<citipy.citipy.City object at 0x000002075FE1CEB8>,mahon,es,51.89,39.2,86,20,11.41,1521784800
+<citipy.citipy.City object at 0x000002076156A3C8>,torrington,us,42.06,55.4,47,75,14.99,1521784380
+<citipy.citipy.City object at 0x0000020760DBF550>,belushya guba,ru,,,,,,
+<citipy.citipy.City object at 0x0000020760EB54E0>,mednogorsk,ru,51.41,20.07,87,68,11.43,1521787112
+<citipy.citipy.City object at 0x000002076085C470>,banepa,np,27.63,77,27,20,3.36,1521786000
+<citipy.citipy.City object at 0x000002075F8F7390>,rio grande,br,-32.03,64.71,95,0,11.32,1521787112
+<citipy.citipy.City object at 0x0000020760DACDD8>,aykhal,ru,65.95,17.19,74,0,3.71,1521787113
+<citipy.citipy.City object at 0x00000207607C2390>,henties bay,na,-22.12,61.83,100,20,3.71,1521787113
+<citipy.citipy.City object at 0x0000020761017240>,buala,sb,-8.15,78.12,100,88,6.29,1521786682
+<citipy.citipy.City object at 0x000002075FEF7D68>,brae,gb,60.4,42.04,100,75,10.29,1521784200
+<citipy.citipy.City object at 0x000002075FA3FE48>,lac du bonnet,ca,50.25,26.01,78,0,9.31,1521787114
+<citipy.citipy.City object at 0x00000207601F4780>,chiplun,in,17.53,86.58,29,0,3.71,1521787115
+<citipy.citipy.City object at 0x000002075FB85780>,yaan,cn,7.38,77.85,86,76,7.63,1521787115
+<citipy.citipy.City object at 0x000002076065A390>,nador,ma,35.17,48.88,54,0,17.22,1521784800
+<citipy.citipy.City object at 0x000002075FBD0780>,jurado,co,,,,,,
+<citipy.citipy.City object at 0x00000207612002E8>,ukiah,us,39.15,39.2,75,1,3.36,1521784560
+<citipy.citipy.City object at 0x00000207610EF6D8>,kaohsiung,tw,22.62,77,47,20,12.75,1521784800
+<citipy.citipy.City object at 0x000002075FF4CBE0>,sandwick,gb,54.57,41,100,92,25.28,1521784200
+<citipy.citipy.City object at 0x00000207607C2860>,maltahohe,na,-24.83,58.41,64,0,2.71,1521787117
+<citipy.citipy.City object at 0x00000207601177B8>,sarkad,hu,46.74,30.81,74,0,6.93,1521784800
+<citipy.citipy.City object at 0x000002076060E940>,zachagansk,kz,,,,,,
+<citipy.citipy.City object at 0x0000020760E775C0>,krasnoselkup,ru,,,,,,
+<citipy.citipy.City object at 0x0000020760E36BE0>,kamenskoye,ru,,,,,,
+<citipy.citipy.City object at 0x0000020760F6F470>,sobolevo,ru,54.43,30.78,90,80,18.48,1521786757
+<citipy.citipy.City object at 0x000002075F96D9B0>,esterhazy,ca,50.65,28.62,93,88,17.81,1521787118
+<citipy.citipy.City object at 0x00000207604E9978>,belton,us,31.06,61.25,77,1,14.99,1521785700
+<citipy.citipy.City object at 0x0000020760660C50>,ambilobe,mg,-13.19,79.47,100,20,3.71,1521787119
+<citipy.citipy.City object at 0x0000020760137710>,ambon,id,47.55,46.4,93,90,13.87,1521784800
+<citipy.citipy.City object at 0x000002075FB07278>,tabou,ci,4.42,81.63,100,80,8.19,1521787120
+<citipy.citipy.City object at 0x0000020760E91080>,kyren,ru,51.68,42.03,58,0,2.59,1521787120
+<citipy.citipy.City object at 0x000002075FC4C240>,ponta do sol,cv,-20.63,66.15,100,80,3.49,1521786649
+<citipy.citipy.City object at 0x0000020760377128>,kopavogur,is,64.11,35.55,100,40,5.82,1521786600
+<citipy.citipy.City object at 0x0000020760DB8908>,baykit,ru,61.68,18.99,77,92,8.52,1521787121
+<citipy.citipy.City object at 0x000002075FE14898>,guadalajara,es,40.63,39.25,85,0,4.7,1521784800
+<citipy.citipy.City object at 0x0000020760F90198>,svetlyy,ru,,,,,,
+<citipy.citipy.City object at 0x00000207602E35F8>,port blair,in,11.67,83.25,100,0,7.96,1521787123
+<citipy.citipy.City object at 0x000002075F8305C0>,maragogi,br,-9.01,73.89,100,48,2.37,1521787123
+<citipy.citipy.City object at 0x00000207606A8B70>,monkey bay,mw,-14.08,79.11,100,56,9.19,1521787123
+<citipy.citipy.City object at 0x000002076156AE10>,juan lacaze,uy,-34.43,62.46,57,0,10.76,1521787124
+<citipy.citipy.City object at 0x000002075FA79E48>,whitehorse,ca,60.72,17.6,72,75,8.05,1521784800
+<citipy.citipy.City object at 0x000002075FDCF3C8>,palora,ec,-1.7,58.23,100,32,1.92,1521787124
+<citipy.citipy.City object at 0x0000020760FB5DA0>,ulety,ru,51.36,47.79,31,0,11.99,1521787125
+<citipy.citipy.City object at 0x000002075F7814E0>,geraldton,au,49.72,17.6,34,5,5.82,1521784800
+<citipy.citipy.City object at 0x000002075FA47D30>,mayo,ca,63.59,8.6,60,20,2.24,1521781200
+<citipy.citipy.City object at 0x000002075FDC2908>,adrar,dz,27.87,41,35,0,8.05,1521784800
+<citipy.citipy.City object at 0x00000207604668D0>,naze,jp,5.43,75.2,94,40,3.49,1521781200
+<citipy.citipy.City object at 0x00000207606A2438>,quatre cocos,mu,-20.21,84.2,70,40,11.41,1521784800
+<citipy.citipy.City object at 0x00000207606088D0>,lenger,kz,42.18,48.2,87,90,6.71,1521784800
+<citipy.citipy.City object at 0x0000020760707358>,huejuquilla el alto,mx,22.63,53.91,45,0,1.92,1521787127
+<citipy.citipy.City object at 0x000002076040CF60>,termoli,it,42,42.39,97,92,28.1,1521787127
+<citipy.citipy.City object at 0x00000207606A5C18>,thinadhoo,mv,0.53,84.78,98,32,12.44,1521787127
+<citipy.citipy.City object at 0x000002076047B7B8>,shimoda,jp,34.7,52.86,51,40,11.41,1521784800
+<citipy.citipy.City object at 0x0000020760DFBFD0>,dukat,ru,42.44,27,84,80,2.59,1521787128
+<citipy.citipy.City object at 0x000002075FDF5550>,suez,eg,29.97,64.44,65,64,4.61,1521787129
+<citipy.citipy.City object at 0x0000020760734B70>,nochistlan,mx,21.37,64.4,31,5,9.17,1521784020
+<citipy.citipy.City object at 0x00000207608C3AC8>,faanui,pf,-16.48,82.71,100,68,11.43,1521786658
+<citipy.citipy.City object at 0x00000207611BAEB8>,harrison,us,39.26,28.81,92,1,2.93,1521785700
+<citipy.citipy.City object at 0x000002075FF7CA20>,narsaq,gl,60.91,26.6,53,0,10.29,1521784200
+<citipy.citipy.City object at 0x000002076014CEF0>,kawalu,id,-7.38,76.05,96,20,2.37,1521787130
+<citipy.citipy.City object at 0x00000207608B4BE0>,pisco,pe,-13.71,71.6,78,0,1.12,1521784800
+<citipy.citipy.City object at 0x00000207611B1780>,kenai,us,60.55,22.96,53,1,3.15,1521784560
+<citipy.citipy.City object at 0x0000020760688B70>,ye,mm,,,,,,
+<citipy.citipy.City object at 0x0000020760E94898>,leningradskiy,ru,69.38,30.96,90,68,35.81,1521786656
+<citipy.citipy.City object at 0x00000207606017F0>,atbasar,kz,51.81,29.97,92,64,17.58,1521787132
+<citipy.citipy.City object at 0x000002075FA42898>,la ronge,ca,55.1,23,73,75,12.75,1521781200
+<citipy.citipy.City object at 0x0000020760146198>,denpasar,id,-8.65,84.33,75,12,3.15,1521787132
+<citipy.citipy.City object at 0x000002075FF7CC18>,paamiut,gl,61.99,20.7,100,24,23.73,1521787133
+<citipy.citipy.City object at 0x0000020760F33080>,puksoozero,ru,62.59,18.27,92,80,5.5,1521787133
+<citipy.citipy.City object at 0x000002075FB0BA90>,coihaique,cl,-45.58,48.2,87,90,3.36,1521784800
+<citipy.citipy.City object at 0x000002075FDCFDA0>,puerto baquerizo moreno,ec,-0.9,80.1,100,0,6.17,1521787133
+<citipy.citipy.City object at 0x000002075F787748>,kununurra,au,-15.77,100.4,33,20,9.17,1521784800
+<citipy.citipy.City object at 0x0000020760FB3860>,udachnyy,ru,66.42,18.27,68,20,3.38,1521786692
+<citipy.citipy.City object at 0x000002076061EBA8>,buchanan,lr,5.88,78.57,100,88,5.28,1521787134
+<citipy.citipy.City object at 0x0000020760DDE160>,bystryy istok,ru,52.37,46.53,79,68,14.67,1521787135
+<citipy.citipy.City object at 0x00000207607CC2B0>,agadez,ne,16.97,71.6,12,24,16.11,1521784800
+<citipy.citipy.City object at 0x00000207606634E0>,antalaha,mg,-14.9,78.75,100,76,8.08,1521787136
+<citipy.citipy.City object at 0x00000207607EBFD0>,puerto cabezas,ni,14.04,77.13,100,76,15.23,1521787136
+<citipy.citipy.City object at 0x0000020760660860>,ambanja,mg,-13.68,84.2,97,75,2.24,1521784800
+<citipy.citipy.City object at 0x000002075F906588>,santo antonio do ica,br,-3.1,73.89,98,76,3.6,1521787136
+<citipy.citipy.City object at 0x0000020760EC5518>,motygino,ru,58.18,32.13,87,92,8.97,1521787137
+<citipy.citipy.City object at 0x0000020760859588>,vardo,no,39.62,34.7,50,1,10.29,1521785700
+<citipy.citipy.City object at 0x000002075F745B70>,namibe,ao,-15.19,77.58,100,48,7.85,1521786650
+<citipy.citipy.City object at 0x0000020760426AC8>,wadi musa,jo,30.32,68,20,0,2.24,1521785220
+<citipy.citipy.City object at 0x000002075FF73320>,anloga,gh,5.79,78.8,94,20,4.7,1521784800
+<citipy.citipy.City object at 0x00000207615B3710>,saldanha,za,41.42,34.83,96,68,3.38,1521786776
+<citipy.citipy.City object at 0x000002076035BA58>,bandar-e lengeh,ir,26.56,75.2,83,40,6.93,1521784800
+<citipy.citipy.City object at 0x000002076034C4E0>,vetapalem,in,15.78,86.4,85,0,6.4,1521787139
+<citipy.citipy.City object at 0x00000207610B56A0>,balkanabat,tm,39.51,66.42,36,20,2.04,1521787140
+<citipy.citipy.City object at 0x0000020760F68DD8>,skalistyy,ru,,,,,,
+<citipy.citipy.City object at 0x000002075FBB5B00>,cravo norte,co,6.3,73.98,95,76,4.38,1521787140
+<citipy.citipy.City object at 0x000002075F925588>,tarauaca,br,-8.16,74.97,93,56,2.59,1521787141
+<citipy.citipy.City object at 0x0000020760AC37F0>,sulangan,ph,11.14,81.81,100,12,12.88,1521787141
+<citipy.citipy.City object at 0x0000020760E5EBA8>,kolyshley,ru,52.7,22.32,90,56,9.98,1521787141
+<citipy.citipy.City object at 0x000002075FE5B7F0>,seinajoki,fi,,,,,,
+<citipy.citipy.City object at 0x000002075F823B70>,laguna,br,27.52,69.21,61,56,2.15,1521787142
+<citipy.citipy.City object at 0x000002075F78D4E0>,nelson bay,au,-32.72,71.6,78,75,5.82,1521784800
+<citipy.citipy.City object at 0x0000020761014390>,abha,sa,18.22,71.6,18,0,4.7,1521784800
+<citipy.citipy.City object at 0x0000020760E1E390>,igrim,ru,63.19,-2.35,60,12,3.6,1521787143
+<citipy.citipy.City object at 0x000002076085EF60>,ahipara,nz,-35.17,65.16,100,80,6.4,1521786703
+<citipy.citipy.City object at 0x00000207606630F0>,andevoranto,mg,,,,,,
+<citipy.citipy.City object at 0x0000020760D9FBA8>,anadyr,ru,64.73,28.4,100,90,38.03,1521784800
+<citipy.citipy.City object at 0x0000020760EAA160>,malaya purga,ru,56.55,12.69,89,56,6.06,1521787144
+<citipy.citipy.City object at 0x000002075F7BC048>,cabedelo,br,-6.97,75.2,88,20,4.7,1521784800
+<citipy.citipy.City object at 0x000002075FC4C780>,vila do maio,cv,15.13,68,77,20,20.8,1521784800
+<citipy.citipy.City object at 0x0000020760F7C4A8>,srednekolymsk,ru,67.46,-7.21,61,32,3.83,1521787146
+<citipy.citipy.City object at 0x0000020761079DD8>,salamiyah,sy,35.01,66.51,18,0,5.95,1521787146
+<citipy.citipy.City object at 0x0000020760DC3588>,beringovskiy,ru,63.05,28.53,91,56,39.73,1521787146
+<citipy.citipy.City object at 0x0000020760697470>,bambous virieux,mu,-20.34,84.2,70,40,11.41,1521784800
+<citipy.citipy.City object at 0x000002076067CEB8>,nioro,ml,13.79,67.23,35,0,9.64,1521787147
+<citipy.citipy.City object at 0x0000020760FF2F28>,yerbogachen,ru,61.28,27.54,65,24,4.94,1521786695
+<citipy.citipy.City object at 0x000002075F7545F8>,rio gallegos,ar,-51.62,42.8,70,40,14.99,1521784800
+<citipy.citipy.City object at 0x000002076059FF98>,north myrtle beach,us,33.83,37.8,86,1,17.81,1521785700
+<citipy.citipy.City object at 0x00000207611D1E80>,eureka,us,40.8,42.76,61,90,9.17,1521784500
+<citipy.citipy.City object at 0x0000020760688C88>,bulgan,mn,48.81,55.44,22,0,8.19,1521787149
+<citipy.citipy.City object at 0x0000020760137B00>,atambua,id,-9.11,81.54,100,68,6.96,1521787150
+<citipy.citipy.City object at 0x0000020760BB8DA0>,capitan bado,py,-23.27,72.36,93,0,2.48,1521787150
+<citipy.citipy.City object at 0x000002075F8CE978>,codrington,ag,-28.95,68.31,96,92,5.61,1521786771
+<citipy.citipy.City object at 0x0000020760739940>,obregon,mx,32.86,70.61,40,1,14.99,1521784620
+<citipy.citipy.City object at 0x0000020760680550>,tessalit,ml,20.2,49.5,27,0,16.58,1521787151
+<citipy.citipy.City object at 0x000002075FF81208>,conakry,gn,9.52,78.8,83,20,7.74,1521784800
+<citipy.citipy.City object at 0x000002076100A550>,zhigansk,ru,66.77,17.01,75,80,5.39,1521787152
+<citipy.citipy.City object at 0x0000020760158D68>,nabire,id,-3.36,73.35,94,76,1.7,1521787152
+<citipy.citipy.City object at 0x000002076056F358>,altus,us,34.64,63.7,67,1,10.29,1521786180
+<citipy.citipy.City object at 0x000002076156A8D0>,chuy,uy,-33.69,60.48,94,0,12.66,1521786670
+<citipy.citipy.City object at 0x00000207611B14E0>,fairbanks,us,64.84,13.21,41,1,5.82,1521784680
+<citipy.citipy.City object at 0x000002076068F2B0>,nouadhibou,mr,20.93,60.8,67,0,14.99,1521784800
+<citipy.citipy.City object at 0x0000020760875E80>,wellsford,nz,-36.3,67.41,90,92,12.66,1521787153
+<citipy.citipy.City object at 0x0000020760155A20>,manado,id,1.49,84.2,74,40,10.29,1521786600
+<citipy.citipy.City object at 0x0000020760E910F0>,kyshtovka,ru,56.56,29.43,98,56,17.25,1521787154
+<citipy.citipy.City object at 0x00000207611B1828>,ketchikan,us,55.34,37.99,93,90,4.7,1521784560
+<citipy.citipy.City object at 0x0000020760E25D30>,ishimbay,ru,53.45,22.59,91,88,8.08,1521787155
+<citipy.citipy.City object at 0x00000207608FD400>,balingasay,ph,16.36,80.91,92,0,9.75,1521787156
+<citipy.citipy.City object at 0x0000020760F165C0>,petropavlovsk-kamchatskiy,ru,53.05,26.6,42,0,13.42,1521784800
+<citipy.citipy.City object at 0x0000020760333AC8>,tezu,in,27.93,52.2,100,92,1.7,1521787156
+<citipy.citipy.City object at 0x0000020760377198>,olafsvik,is,,,,,,
+<citipy.citipy.City object at 0x000002076082EFD0>,havoysund,no,71,24.8,79,75,20.8,1521784200
+<citipy.citipy.City object at 0x000002075F8064E0>,ipora,br,,,,,,
+<citipy.citipy.City object at 0x00000207607C8B00>,tadine,nc,-21.55,80.55,97,88,17.36,1521786741
+<citipy.citipy.City object at 0x000002075FE07D30>,carballo,es,43.21,47.19,87,75,10.29,1521784800
+<citipy.citipy.City object at 0x0000020760460DD8>,muroto,jp,33.37,59,100,40,8.05,1521784800
+<citipy.citipy.City object at 0x0000020761066B38>,mogadishu,so,2.04,84.2,83,40,9.17,1521784800
+<citipy.citipy.City object at 0x000002075FDC2E48>,sidi ali,dz,36.1,36.45,82,0,7.18,1521786651
+<citipy.citipy.City object at 0x0000020760682748>,lashio,mm,22.93,79.92,58,0,1.36,1521787159
+<citipy.citipy.City object at 0x000002075F90ACC0>,sao gabriel da cachoeira,br,-0.13,71.73,94,92,0.58,1521787159
+<citipy.citipy.City object at 0x000002075F819A90>,japura,br,-0.42,78.84,89,92,2.82,1521787160
+<citipy.citipy.City object at 0x000002076026B0F0>,khargone,in,21.82,89.46,26,0,5.73,1521787160
+<citipy.citipy.City object at 0x0000020760B92320>,lagoa,pt,37.14,51.8,81,75,5.82,1521784800
+<citipy.citipy.City object at 0x0000020760E4CDD8>,kholtoson,ru,50.3,44.73,60,0,6.96,1521787160
+<citipy.citipy.City object at 0x000002075F92C390>,touros,br,-5.2,79.83,84,76,8.41,1521787161
+<citipy.citipy.City object at 0x00000207607C0128>,inhambane,mz,-23.87,75.96,100,100,5.95,1521787161
+<citipy.citipy.City object at 0x0000020760155DA0>,martapura,id,-3.41,86.67,78,20,7.74,1521787162
+<citipy.citipy.City object at 0x000002075FB51668>,korla,cn,,,,,,
+<citipy.citipy.City object at 0x00000207600319E8>,champerico,gt,16.38,70.83,58,0,4.72,1521786778
+<citipy.citipy.City object at 0x0000020760BCFD68>,saint-joseph,re,43.56,38.19,80,0,4.7,1521784800
+<citipy.citipy.City object at 0x000002075F5599E8>,anastacio,br,-20.48,75.15,91,0,2.71,1521787163
+<citipy.citipy.City object at 0x0000020760DB6C50>,batagay-alyta,ru,67.8,12.69,66,48,5.39,1521787164
+<citipy.citipy.City object at 0x000002075FA7CC18>,yarmouth,ca,50.71,44.22,93,75,9.17,1521784200
+<citipy.citipy.City object at 0x0000020760E911D0>,kysyl-syr,ru,63.9,19.89,70,32,4.61,1521787164
+<citipy.citipy.City object at 0x000002075F7BCE48>,cacu,br,-18.56,72.81,84,56,3.71,1521787165
+<citipy.citipy.City object at 0x00000207602864E0>,leh,in,34.16,10.71,90,20,0.58,1521787165
+<citipy.citipy.City object at 0x000002075FF7CDD8>,qasigiannguit,gl,68.82,1.4,84,48,21.92,1521784200
+<citipy.citipy.City object at 0x0000020760148358>,gorontalo,id,0.54,84.6,70,64,2.37,1521787166
+<citipy.citipy.City object at 0x000002075F790278>,port pirie,au,-33.18,95,21,40,8.05,1521784800
+<citipy.citipy.City object at 0x0000020760774278>,tekanto,mx,21.02,69.8,68,5,9.17,1521784080
+<citipy.citipy.City object at 0x000002075FB8D828>,zalantun,cn,48,50.13,33,0,7.18,1521787167
+<citipy.citipy.City object at 0x0000020760F8DE80>,svetlogorsk,ru,53.14,19.4,79,90,13.42,1521784800
+<citipy.citipy.City object at 0x0000020760FF6198>,yermish,ru,54.77,22.05,91,56,11.99,1521787168
+<citipy.citipy.City object at 0x00000207612512B0>,kailua,us,21.39,69.33,88,90,11.65,1521784620
+<citipy.citipy.City object at 0x0000020760B22080>,mingaora,pk,34.78,60.93,55,0,1.14,1521786871
+<citipy.citipy.City object at 0x000002076102D0B8>,timra,se,62.49,13.1,85,90,4.7,1521784200
+<citipy.citipy.City object at 0x00000207606806D8>,yorosso,ml,12.35,69.57,22,0,12.88,1521787169
+<citipy.citipy.City object at 0x00000207604AD358>,ijaki,ki,,,,,,
+<citipy.citipy.City object at 0x000002075FB04DA0>,san-pedro,ci,4.75,76.86,94,36,5.61,1521787170
+<citipy.citipy.City object at 0x000002075FF549B0>,stornoway,gb,,,,,,
+<citipy.citipy.City object at 0x0000020760DC62E8>,bilibino,ru,68.06,-1.9,66,80,2.82,1521786763
+<citipy.citipy.City object at 0x0000020760139B70>,barabai,id,-2.59,91.8,60,8,2.37,1521787171
+<citipy.citipy.City object at 0x00000207608C8550>,vaitape,pf,-16.52,82.35,100,88,11.99,1521787171
+<citipy.citipy.City object at 0x0000020760FF2C50>,yemtsa,ru,63.06,16.29,86,88,6.96,1521787171
+<citipy.citipy.City object at 0x0000020760BB5438>,vila vicosa,pt,38.78,48.2,81,75,5.82,1521784800
+<citipy.citipy.City object at 0x0000020760499FD0>,garissa,ke,-0.46,81.45,65,0,4.72,1521787172
+<citipy.citipy.City object at 0x000002075FA83588>,isiro,cd,2.77,68.67,94,76,2.93,1521787173
+<citipy.citipy.City object at 0x0000020760582AC8>,hermitage,us,41.23,23.77,79,1,3.36,1521785700
+<citipy.citipy.City object at 0x00000207604DB748>,marshall,us,39.39,35.33,86,1,3.15,1521784500
+<citipy.citipy.City object at 0x000002075FE5D828>,klaksvik,fo,62.23,39.2,86,92,11.99,1521784200
+<citipy.citipy.City object at 0x000002075F5606A0>,aripuana,br,-9.17,76.95,91,56,2.37,1521787174
+<citipy.citipy.City object at 0x000002075FF7CD30>,qaqortoq,gl,60.72,26.6,53,0,10.29,1521784200
+<citipy.citipy.City object at 0x0000020760F47978>,salym,ru,60.06,18.36,70,64,7.63,1521787175
+<citipy.citipy.City object at 0x000002075F74C9E8>,necochea,ar,-38.55,64.35,73,44,14.34,1521787176
+<citipy.citipy.City object at 0x000002075F790080>,portland,au,45.52,40.32,86,90,11.41,1521785700
+<citipy.citipy.City object at 0x000002075FA35E48>,halifax,ca,44.65,32,100,90,16.11,1521784800
+<citipy.citipy.City object at 0x0000020761014DD8>,tabuk,sa,17.41,72.9,62,68,3.04,1521787177
+<citipy.citipy.City object at 0x000002075FDD1518>,san cristobal,ec,-0.39,51.8,93,40,4.7,1521784800
+<citipy.citipy.City object at 0x000002075F8115F8>,itapipoca,br,-3.5,72.99,100,80,2.93,1521787177
+<citipy.citipy.City object at 0x0000020760663390>,ankazoabo,mg,-22.29,85.41,55,0,4.72,1521787178
+<citipy.citipy.City object at 0x000002075FDD8908>,iisaku,ee,59.1,29.79,90,68,14.45,1521787178
+<citipy.citipy.City object at 0x000002075FE5DDD8>,sorvag,fo,,,,,,
+<citipy.citipy.City object at 0x0000020760663D68>,farafangana,mg,-22.82,76.68,100,88,7.74,1521787178
+<citipy.citipy.City object at 0x00000207610533C8>,goderich,sl,43.74,24.21,76,8,10.76,1521787179
+<citipy.citipy.City object at 0x000002075F796EF0>,oranjestad,aw,12.52,78.8,83,20,16.11,1521784800
+<citipy.citipy.City object at 0x00000207608C8A90>,buin,pg,-33.73,55.4,76,0,6.93,1521784800
+<citipy.citipy.City object at 0x000002076005F978>,mahaicony,gy,,,,,,
+<citipy.citipy.City object at 0x00000207610AC978>,ayni,tj,39.39,44.28,81,0,1.92,1521787180
+<citipy.citipy.City object at 0x0000020760713908>,jimenez,mx,8.54,75.78,75,0,11.99,1521787180
+<citipy.citipy.City object at 0x0000020760B87198>,charneca de caparica,pt,38.6,53.6,93,75,10.29,1521784800
+<citipy.citipy.City object at 0x000002075FB70940>,shitanjing,cn,39.23,56.16,29,8,6.29,1521786706
+<citipy.citipy.City object at 0x0000020760FAC898>,tumannyy,ru,,,,,,
+<citipy.citipy.City object at 0x00000207602D1BA8>,paradwip,in,,,,,,
+<citipy.citipy.City object at 0x0000020760DF45F8>,dobrinka,ru,52.17,15.12,86,0,10.65,1521787182
+<citipy.citipy.City object at 0x000002075FB5F198>,mingshui,cn,22.81,79.11,52,0,6.17,1521787182
+<citipy.citipy.City object at 0x00000207602C20B8>,nepa nagar,in,21.47,90.36,25,0,5.73,1521787182
+<citipy.citipy.City object at 0x000002075F7B2438>,boa vista,br,2.82,80.6,61,0,6.93,1521784800
+<citipy.citipy.City object at 0x0000020760AB5748>,sarangani,ph,5.4,81.81,100,88,1.14,1521787184
+<citipy.citipy.City object at 0x000002076059FC50>,mount pleasant,us,33.16,61.88,63,1,10.29,1521785700
+<citipy.citipy.City object at 0x000002075F78DEF0>,port hedland,au,-20.31,100.4,47,32,16.11,1521784800
+<citipy.citipy.City object at 0x000002075F957048>,attawapiskat,ca,,,,,,
+<citipy.citipy.City object at 0x00000207607CC630>,bilma,ne,18.69,68.94,26,20,9.98,1521787185
+<citipy.citipy.City object at 0x000002075FC2EC88>,naranjo,cr,10.1,68,60,0,23.04,1521784800
+<citipy.citipy.City object at 0x0000020761597DA0>,saleaula,ws,,,,,,
+<citipy.citipy.City object at 0x0000020760EF45F8>,nyurba,ru,63.29,26.1,67,76,3.71,1521787186
+<citipy.citipy.City object at 0x00000207604AD5C0>,tabiauea,ki,,,,,,
+<citipy.citipy.City object at 0x000002075FDF8160>,adeje,es,5.68,73.8,93,36,3.04,1521787187
+<citipy.citipy.City object at 0x000002075F7D13C8>,carutapera,br,-1.2,78.48,93,80,5.17,1521787187
+<citipy.citipy.City object at 0x000002075FE9ADD8>,laval,fr,45.58,27.18,74,5,5.82,1521784800
+<citipy.citipy.City object at 0x000002075FB1F2B0>,meiganga,cm,6.52,66.33,96,92,3.04,1521787188
+<citipy.citipy.City object at 0x000002075F5130F0>,batie,bf,45.06,38.39,93,90,9.17,1521784800
+<citipy.citipy.City object at 0x00000207604A1240>,malindi,ke,-3.22,84.2,74,75,2.48,1521784800
+<citipy.citipy.City object at 0x00000207607C27B8>,luderitz,na,-26.65,57.2,100,0,5.82,1521784800
+<citipy.citipy.City object at 0x0000020760DA2BA8>,apatity,ru,67.57,10.89,75,8,3.71,1521787190
+<citipy.citipy.City object at 0x000002076159CA90>,chirongui,yt,-12.93,86,74,40,2.24,1521784800
+<citipy.citipy.City object at 0x000002075F7901D0>,port macquarie,au,-31.43,66.2,100,75,9.64,1521784800
+<citipy.citipy.City object at 0x000002076028C668>,mahad,in,18.08,83.34,60,0,6.4,1521787098
+<citipy.citipy.City object at 0x000002075FC4C358>,praia,cv,-20.25,66.2,88,90,3.49,1521784800
+<citipy.citipy.City object at 0x0000020760FA06A0>,tilichiki,ru,60.47,8.1,71,88,16.24,1521787191
+<citipy.citipy.City object at 0x00000207606556D8>,darnah,ly,32.77,60.93,100,88,17.25,1521787192
+<citipy.citipy.City object at 0x0000020760E360F0>,kamenka,ru,53.19,22.32,90,80,10.09,1521786745
+<citipy.citipy.City object at 0x0000020761209F98>,sterling,us,39,36.55,59,1,8.05,1521785700
+<citipy.citipy.City object at 0x00000207611B19E8>,nome,us,30.04,54.93,82,1,7.18,1521785700
+<citipy.citipy.City object at 0x000002075FDF5390>,rosetta,eg,31.4,60.8,72,92,1.12,1521781200
+<citipy.citipy.City object at 0x00000207611E5C88>,morro bay,us,35.37,49.46,76,75,4.7,1521784560
+<citipy.citipy.City object at 0x0000020761131CF8>,chutove,ua,49.72,10.98,71,0,3.94,1521787193
+<citipy.citipy.City object at 0x000002076123BD68>,tarpon springs,us,28.15,52.03,100,1,13.22,1521785700
+<citipy.citipy.City object at 0x000002075F796518>,wagga wagga,au,-35.12,78.8,36,0,10.29,1521784800
+<citipy.citipy.City object at 0x000002075F968E10>,dauphin,ca,51.15,28.4,86,90,8.05,1521784800
+<citipy.citipy.City object at 0x00000207608CBDD8>,namatanai,pg,-3.66,84.15,96,24,14.45,1521787195
+<citipy.citipy.City object at 0x0000020760139278>,bambanglipuro,id,-7.95,87.48,63,32,6.73,1521787196
+<citipy.citipy.City object at 0x000002076090F320>,basco,ph,40.33,37.4,86,90,4.7,1521784800
+<citipy.citipy.City object at 0x0000020760DDBC18>,buzdyak,ru,54.57,21.15,93,80,10.2,1521787196
+<citipy.citipy.City object at 0x00000207608C3EB8>,haapiti,pf,-17.57,82.4,69,20,4.7,1521784800
+<citipy.citipy.City object at 0x0000020760579D68>,newport,us,51.59,44.01,87,90,12.75,1521784200
+<citipy.citipy.City object at 0x0000020760E0B5C0>,gayny,ru,60.3,7.11,68,12,3.71,1521787197
+<citipy.citipy.City object at 0x0000020761017588>,lata,sb,30.78,56.79,64,0,2.04,1521786656
+<citipy.citipy.City object at 0x000002075FB17320>,valdivia,cl,-39.81,55.4,93,75,8.05,1521784800
+<citipy.citipy.City object at 0x0000020760F887B8>,strezhevoy,ru,60.73,14,78,0,8.95,1521784800
+<citipy.citipy.City object at 0x00000207603D2080>,monopoli,it,40.95,38.82,100,40,16.11,1521784920
+<citipy.citipy.City object at 0x00000207607CC4A8>,arlit,ne,18.74,56.7,18,32,12.66,1521787200
+<citipy.citipy.City object at 0x00000207605C88D0>,rockport,us,28.02,69.04,83,1,12.75,1521785700
+<citipy.citipy.City object at 0x000002075F77EFD0>,flinders,au,-34.58,69.8,64,90,6.93,1521784800
+<citipy.citipy.City object at 0x00000207610E6F98>,zonguldak,tr,41.25,50,87,75,3.36,1521784200
+<citipy.citipy.City object at 0x0000020760E46240>,kedrovyy,ru,56.17,50,61,40,11.18,1521784800
+<citipy.citipy.City object at 0x00000207610146D8>,jizan,sa,16.89,87.8,55,0,3.15,1521784800
+<citipy.citipy.City object at 0x00000207604E5A58>,meridian,us,32.36,43.75,87,1,3.38,1521784680
+<citipy.citipy.City object at 0x000002075F7767B8>,atherton,au,53.52,45.16,75,20,11.41,1521786000
+<citipy.citipy.City object at 0x000002076157CC88>,ciudad ojeda,ve,10.22,82.89,90,68,6.85,1521787203
